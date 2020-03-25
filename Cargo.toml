@@ -1,0 +1,9 @@
+[package]
+name = "start-m"
+version = "0.1.0"
+authors = ["Franco Sirena <franco.sirena@bitsighttech.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
